@@ -5,7 +5,11 @@ If there is any problem, please contact the author via email yjm_apple@icloud.co
 
 # Prerequisites
 Python 2.7
+
 GPU
+
 Numpy
+
 Pytorch 0.3
+
 Torchvision
